@@ -3,6 +3,29 @@
 	background-color: #C4C7BD;
 }
 h1{
-	top-margin: 140px;
+
 	text-align: center;
+}
+/*.moviepic{
+	background-image: url(http://ronetheboxhouston.files.wordpress.com/2011/03/miami-beach-movie-theater.jpg);
+	height: 1300px;
+	width: 1800px;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}*/
+.searchbar{
+	width:300px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -100px 0 0 -150px;
+
+}
+
+.title{
+	font-size: 25px;
+	color: blue;
+	
+
 }
